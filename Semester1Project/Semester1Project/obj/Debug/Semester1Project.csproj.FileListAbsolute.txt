@@ -1,0 +1,22 @@
+D:\urfu\programming\Semester1Project\Semester1Project\bin\Debug\Semester1Project.exe.config
+D:\urfu\programming\Semester1Project\Semester1Project\bin\Debug\Semester1Project.exe
+D:\urfu\programming\Semester1Project\Semester1Project\bin\Debug\Semester1Project.pdb
+D:\urfu\programming\Semester1Project\Semester1Project\obj\Debug\Semester1Project.csprojAssemblyReference.cache
+D:\urfu\programming\Semester1Project\Semester1Project\obj\Debug\Semester1Project.Form1.resources
+D:\urfu\programming\Semester1Project\Semester1Project\obj\Debug\Semester1Project.Properties.Resources.resources
+D:\urfu\programming\Semester1Project\Semester1Project\obj\Debug\Semester1Project.csproj.GenerateResource.cache
+D:\urfu\programming\Semester1Project\Semester1Project\obj\Debug\Semester1Project.csproj.CoreCompileInputs.cache
+D:\urfu\programming\Semester1Project\Semester1Project\obj\Debug\Semester1Project.exe
+D:\urfu\programming\Semester1Project\Semester1Project\obj\Debug\Semester1Project.pdb
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\bin\Debug\Semester1Project.exe.config
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\bin\Debug\Semester1Project.exe
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\bin\Debug\Semester1Project.pdb
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\obj\Debug\Semester1Project.csprojAssemblyReference.cache
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\obj\Debug\Semester1Project.Form1.resources
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\obj\Debug\Semester1Project.Properties.Resources.resources
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\obj\Debug\Semester1Project.csproj.GenerateResource.cache
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\obj\Debug\Semester1Project.csproj.CoreCompileInputs.cache
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\obj\Debug\Semester1Project.exe
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\obj\Debug\Semester1Project.pdb
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\obj\Debug\Semester1Project.TestForm.resources
+D:\urfu\programming\Первый семестр проект\Semester1Project\Semester1Project\obj\Debug\Semester1Project.ExerciseForm.resources
